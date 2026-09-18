@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
 | [1470-shuffle-the-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1672-richest-customer-wealth) |
@@ -15,4 +16,8 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
