@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
