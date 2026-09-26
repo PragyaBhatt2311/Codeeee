@@ -34,4 +34,16 @@
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
