@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
@@ -25,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
