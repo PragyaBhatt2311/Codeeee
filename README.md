@@ -12,6 +12,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1470-shuffle-the-array) |
 | [1672-richest-customer-wealth](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1920-build-array-from-permutation) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0155-min-stack) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
