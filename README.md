@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
+| [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/1470-shuffle-the-array) |
@@ -25,6 +26,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +36,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
