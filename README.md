@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -35,6 +37,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/PragyaBhatt2311/Codeeee/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
